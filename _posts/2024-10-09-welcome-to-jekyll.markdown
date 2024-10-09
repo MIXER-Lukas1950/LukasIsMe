@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Hello! I am Lukas! That is me!"
+title:  "Biography"
 date:   2024-10-09 14:41:14 -0400
 categories: jekyll update
 ---
