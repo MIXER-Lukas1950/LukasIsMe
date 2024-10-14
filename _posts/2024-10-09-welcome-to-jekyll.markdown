@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Biography"
+title:  "Projects"
 date:   2024-10-09 14:41:14 -0400
 categories: jekyll update
 ---
