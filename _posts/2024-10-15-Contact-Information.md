@@ -1,18 +1,18 @@
 ---
 layout: "post"
 ---
-# Phone Number
+## Phone Number
 724-640-9164
 
-# Email
+## Email
 lukasdeemer@gmail.com
 
-# Other Socials
-### Instagram
+**## Other Socials**
+# Instagram
 [Lukas Deemer](https://www.instagram.com/mixer_lukas1950/)
 
-### YouTube
+# YouTube
 [Lukas1950](https://www.youtube.com/@Lukas1950/videos)
 
-### Discord Username
+# Discord Username
 lukas1950
