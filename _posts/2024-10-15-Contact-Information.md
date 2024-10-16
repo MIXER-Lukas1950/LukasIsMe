@@ -8,11 +8,11 @@ layout: "post"
 lukasdeemer@gmail.com
 
 # Other Socials
-## Instagram
-https://www.instagram.com/mixer_lukas1950/
+### Instagram
+[Lukas Deemer](https://www.instagram.com/mixer_lukas1950/)
 
-## YouTube
-https://www.youtube.com/@Lukas1950/videos
+### YouTube
+[Lukas1950](https://www.youtube.com/@Lukas1950/videos)
 
-## Discord Username
+### Discord Username
 lukas1950
