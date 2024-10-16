@@ -4,26 +4,9 @@ title:  "Projects"
 date:   2024-10-09 14:41:14 -0400
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+<mark>A majority of my projects are inaccessible for legal reasons regarding copyright.</mark>
 
-`YEAR-MONTH-DAY-title.MARKUP`
+The projects I was tasked with involving [Python](https://www.python.org/) were called Creative Tasks. Within these assignments, we were given a set of criteria to follow, which would gradually improve our skills by drilling repeated methods into our heads. I described this in an odd way, so I hope it was at least a little possible to understand.
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+In [Java](https://www.java.com/en/), all of the projects were based on getting the same result of a given program. So, assuming you inputted all of your code correctly, your output should be an exact replica of the program you were given, leading you to learn information from both trial and error and asking your teacher questions.
