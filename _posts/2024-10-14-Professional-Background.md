@@ -2,4 +2,5 @@
 layout: "post"
 ---
 
-I was a child once. Now I am not.
+# Education Level
+High School Diploma from *[Greater Latrobe Senior High School](https://greaterlatrobeshs.glsd.us/)*.
