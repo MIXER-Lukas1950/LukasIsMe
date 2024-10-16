@@ -7,6 +7,8 @@ layout: "post"
 ## Email
 lukasdeemer@gmail.com
 
+---
+
 ## Other Socials
 
 # Instagram
