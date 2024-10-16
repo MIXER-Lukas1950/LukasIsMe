@@ -12,4 +12,3 @@ lukasdeemer@gmail.com
 https://www.instagram.com/mixer_lukas1950/
 
 ## Snapchat
-![Snapchat](https://app.snapchat.com/web/deeplink/snapcode?username=mixer_lukas1950&type=SVG&bitmoji=enable)
