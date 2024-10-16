@@ -7,7 +7,7 @@ layout: "post"
 ## Email
 lukasdeemer@gmail.com
 
-**## Other Socials**
+## Other Socials
 # Instagram
 [Lukas Deemer](https://www.instagram.com/mixer_lukas1950/)
 
